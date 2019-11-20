@@ -1,0 +1,13 @@
+[package]
+name = "matux"
+version = "0.1.0"
+authors = ["SOFe <sofe2038@gmail.com>"]
+edition = "2018"
+license = "Apache-2.0"
+repository = "https://github.com/SOF3/matux"
+homepage = "https://github.com/SOF3/matux"
+readme = "README.md"
+description = "Generic unwrap/expect for Rust pattern matching"
+
+[dependencies]
+
